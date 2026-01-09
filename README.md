@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Mo
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,bootstrap,tailwind,sass,git,github,jira,slack,notion,agile" />
-<img src="assets/mckinsey-org-forward-program.png" />
 💻 Full-Stack Developer  
 🎯 Focused on Modern Web Development  
 🚀 Always learning 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,bootstrap,tailwind,sass,git,github,notion," />
+<img src="assets/mckinsey-org-forward-program.png" />
+
 
 
